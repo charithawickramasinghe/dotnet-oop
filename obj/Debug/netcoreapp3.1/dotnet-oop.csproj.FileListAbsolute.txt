@@ -1,0 +1,13 @@
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\bin\Debug\netcoreapp3.1\dotnet-oop.exe
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\bin\Debug\netcoreapp3.1\dotnet-oop.deps.json
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\bin\Debug\netcoreapp3.1\dotnet-oop.runtimeconfig.json
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\bin\Debug\netcoreapp3.1\dotnet-oop.runtimeconfig.dev.json
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\bin\Debug\netcoreapp3.1\dotnet-oop.dll
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\bin\Debug\netcoreapp3.1\dotnet-oop.pdb
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.csprojAssemblyReference.cache
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.AssemblyInfoInputs.cache
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.AssemblyInfo.cs
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.csproj.CoreCompileInputs.cache
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.dll
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.pdb
+C:\Users\Charitha\Desktop\Projects\dotnet-oop\obj\Debug\netcoreapp3.1\dotnet-oop.genruntimeconfig.cache
